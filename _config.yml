@@ -1,0 +1,14 @@
+---
+url: semiparam.github.io
+exclude: [README.md, .gitignore]
+timezone: null
+lsi: false
+markdown: kramdown
+
+### content configuration ###
+title:       "Semiparametric Methods in NLP @ ACL 2022"
+keywords:    "workshop, knowledge"
+description: "The official website for the Workshop on Semiparametric Methods in NLP: 	
+Semiparametric Methods in NLP:  @ ACL 2022"
+favicon:     #put a path like: "img/favicon.ico"
+touch_icon:  #put a path like: "img/apple-touch-icon.png"
