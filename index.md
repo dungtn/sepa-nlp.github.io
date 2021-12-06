@@ -1,5 +1,5 @@
 ---
-layout: main-2021
+layout: main-2022
 title: Home
 order: 1
 collection: pages_2022
